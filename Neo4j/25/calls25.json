@@ -1,0 +1,452 @@
+[
+	{
+		"ID": 1,
+		"Call_start": 1653381300,
+		"Call_end": 1653381877,
+		"Duration": 577,
+		"City": "Sesto Ivan lido",
+		"Address": "Rotonda Devota 918",
+		"Cell_site": 412
+	},
+	{
+		"ID": 2,
+		"Call_start": 1669036764,
+		"Call_end": 1669037332,
+		"Duration": 568,
+		"City": "Borgo Guglielmo",
+		"Address": "Rotonda Accursio 874",
+		"Cell_site": 8
+	},
+	{
+		"ID": 3,
+		"Call_start": 1665608143,
+		"Call_end": 1665608224,
+		"Duration": 81,
+		"City": "Sesto Girolamo sardo",
+		"Address": "Via Gioele 16",
+		"Cell_site": 74
+	},
+	{
+		"ID": 4,
+		"Call_start": 1672077215,
+		"Call_end": 1672077396,
+		"Duration": 181,
+		"City": "San Zosima salentino",
+		"Address": "Piazza Barbiero 7",
+		"Cell_site": 251
+	},
+	{
+		"ID": 5,
+		"Call_start": 1661156972,
+		"Call_end": 1661157147,
+		"Duration": 175,
+		"City": "Settimo Amadeo calabro",
+		"Address": "Contrada Manuela 86",
+		"Cell_site": 351
+	},
+	{
+		"ID": 6,
+		"Call_start": 1669120772,
+		"Call_end": 1669120882,
+		"Duration": 110,
+		"City": "San Vladimiro",
+		"Address": "Contrada Maggi 973",
+		"Cell_site": 517
+	},
+	{
+		"ID": 7,
+		"Call_start": 1659182282,
+		"Call_end": 1659182589,
+		"Duration": 307,
+		"City": "Efrem terme",
+		"Address": "Rotonda Pantano 29",
+		"Cell_site": 560
+	},
+	{
+		"ID": 8,
+		"Call_start": 1660759180,
+		"Call_end": 1660759317,
+		"Duration": 137,
+		"City": "Borgo Adelfo umbro",
+		"Address": "Strada Pavone 8",
+		"Cell_site": 906
+	},
+	{
+		"ID": 9,
+		"Call_start": 1647285944,
+		"Call_end": 1647286315,
+		"Duration": 371,
+		"City": "Marsili nell'emilia",
+		"Address": "Rotonda Bertelli 86",
+		"Cell_site": 838
+	},
+	{
+		"ID": 10,
+		"Call_start": 1651088034,
+		"Call_end": 1651088179,
+		"Duration": 145,
+		"City": "Colombo sardo",
+		"Address": "Via Cirillo 54",
+		"Cell_site": 725
+	},
+	{
+		"ID": 11,
+		"Call_start": 1662178619,
+		"Call_end": 1662178816,
+		"Duration": 197,
+		"City": "Borgo Tarso",
+		"Address": "Rotonda Astianatte 32",
+		"Cell_site": 654
+	},
+	{
+		"ID": 12,
+		"Call_start": 1664845081,
+		"Call_end": 1664845203,
+		"Duration": 122,
+		"City": "Borgo Servidio",
+		"Address": "Borgo Fulvio 6",
+		"Cell_site": 329
+	},
+	{
+		"ID": 13,
+		"Call_start": 1644114113,
+		"Call_end": 1644114186,
+		"Duration": 73,
+		"City": "Gillo terme",
+		"Address": "Via Ildegonda 40",
+		"Cell_site": 20
+	},
+	{
+		"ID": 14,
+		"Call_start": 1669832421,
+		"Call_end": 1669832592,
+		"Duration": 171,
+		"City": "Sesto Sandra laziale",
+		"Address": "Via Laezza 682",
+		"Cell_site": 873
+	},
+	{
+		"ID": 15,
+		"Call_start": 1643962308,
+		"Call_end": 1643962511,
+		"Duration": 203,
+		"City": "Quarto Antonia",
+		"Address": "Strada Odilia 47",
+		"Cell_site": 110
+	},
+	{
+		"ID": 16,
+		"Call_start": 1641603079,
+		"Call_end": 1641603089,
+		"Duration": 10,
+		"City": "Diamanti calabro",
+		"Address": "Incrocio Selene 36",
+		"Cell_site": 616
+	},
+	{
+		"ID": 17,
+		"Call_start": 1668435168,
+		"Call_end": 1668435726,
+		"Duration": 558,
+		"City": "Sasso nell'emilia",
+		"Address": "Strada Gelsomina 181",
+		"Cell_site": 683
+	},
+	{
+		"ID": 18,
+		"Call_start": 1650747057,
+		"Call_end": 1650747357,
+		"Duration": 300,
+		"City": "Torchia terme",
+		"Address": "Borgo Bernardo 1",
+		"Cell_site": 627
+	},
+	{
+		"ID": 19,
+		"Call_start": 1660198148,
+		"Call_end": 1660198441,
+		"Duration": 293,
+		"City": "Sesto Prudenzio umbro",
+		"Address": "Strada Lezzi 21",
+		"Cell_site": 631
+	},
+	{
+		"ID": 20,
+		"Call_start": 1648206156,
+		"Call_end": 1648206591,
+		"Duration": 435,
+		"City": "Peruzzi calabro",
+		"Address": "Piazza Giulia 76",
+		"Cell_site": 971
+	},
+	{
+		"ID": 21,
+		"Call_start": 1649486755,
+		"Call_end": 1649486833,
+		"Duration": 78,
+		"City": "San Elimena",
+		"Address": "Strada Pagano 79",
+		"Cell_site": 46
+	},
+	{
+		"ID": 22,
+		"Call_start": 1661352380,
+		"Call_end": 1661352934,
+		"Duration": 554,
+		"City": "San Boris",
+		"Address": "Borgo Fazio 818",
+		"Cell_site": 407
+	},
+	{
+		"ID": 23,
+		"Call_start": 1644811308,
+		"Call_end": 1644811759,
+		"Duration": 451,
+		"City": "Di Carlo sardo",
+		"Address": "Incrocio Sisto 415",
+		"Cell_site": 324
+	},
+	{
+		"ID": 24,
+		"Call_start": 1655010872,
+		"Call_end": 1655011249,
+		"Duration": 377,
+		"City": "Settimo Vittore sardo",
+		"Address": "Incrocio Claudio 07",
+		"Cell_site": 775
+	},
+	{
+		"ID": 25,
+		"Call_start": 1650889284,
+		"Call_end": 1650889773,
+		"Duration": 489,
+		"City": "Conforti ligure",
+		"Address": "Contrada Festuccia 6",
+		"Cell_site": 378
+	},
+	{
+		"ID": 26,
+		"Call_start": 1641301557,
+		"Call_end": 1641302030,
+		"Duration": 473,
+		"City": "Quarto Cantidio veneto",
+		"Address": "Via Di Natale 020",
+		"Cell_site": 175
+	},
+	{
+		"ID": 27,
+		"Call_start": 1660943193,
+		"Call_end": 1660943666,
+		"Duration": 473,
+		"City": "San Igino",
+		"Address": "Rotonda Glenda 21",
+		"Cell_site": 689
+	},
+	{
+		"ID": 28,
+		"Call_start": 1666075720,
+		"Call_end": 1666075976,
+		"Duration": 256,
+		"City": "Sesto Carponio",
+		"Address": "Rotonda Metello 110",
+		"Cell_site": 663
+	},
+	{
+		"ID": 29,
+		"Call_start": 1642628407,
+		"Call_end": 1642628787,
+		"Duration": 380,
+		"City": "Bevilacqua laziale",
+		"Address": "Borgo Pastorelli 31",
+		"Cell_site": 581
+	},
+	{
+		"ID": 30,
+		"Call_start": 1668279426,
+		"Call_end": 1668279551,
+		"Duration": 125,
+		"City": "San Simeone",
+		"Address": "Via Fiorenza 70",
+		"Cell_site": 301
+	},
+	{
+		"ID": 31,
+		"Call_start": 1663948303,
+		"Call_end": 1663948424,
+		"Duration": 121,
+		"City": "Secondiano salentino",
+		"Address": "Rotonda Maffeo 0",
+		"Cell_site": 732
+	},
+	{
+		"ID": 32,
+		"Call_start": 1666544215,
+		"Call_end": 1666544217,
+		"Duration": 2,
+		"City": "Cucciniello nell'emilia",
+		"Address": "Via Orsino 280",
+		"Cell_site": 447
+	},
+	{
+		"ID": 33,
+		"Call_start": 1651420937,
+		"Call_end": 1651421396,
+		"Duration": 459,
+		"City": "Sarti calabro",
+		"Address": "Contrada Fabrizio 8",
+		"Cell_site": 931
+	},
+	{
+		"ID": 34,
+		"Call_start": 1653515310,
+		"Call_end": 1653515329,
+		"Duration": 19,
+		"City": "San Modesto",
+		"Address": "Strada Miotto 6",
+		"Cell_site": 136
+	},
+	{
+		"ID": 35,
+		"Call_start": 1666467114,
+		"Call_end": 1666467637,
+		"Duration": 523,
+		"City": "Celi calabro",
+		"Address": "Strada Vitale 29",
+		"Cell_site": 855
+	},
+	{
+		"ID": 36,
+		"Call_start": 1652294963,
+		"Call_end": 1652295173,
+		"Duration": 210,
+		"City": "Marano ligure",
+		"Address": "Rotonda Astrid 329",
+		"Cell_site": 826
+	},
+	{
+		"ID": 37,
+		"Call_start": 1667679084,
+		"Call_end": 1667679451,
+		"Duration": 367,
+		"City": "Ciulla veneto",
+		"Address": "Piazza Calpurnia 10",
+		"Cell_site": 569
+	},
+	{
+		"ID": 38,
+		"Call_start": 1668277155,
+		"Call_end": 1668277504,
+		"Duration": 349,
+		"City": "Agamennone nell'emilia",
+		"Address": "Via Robaldo 2",
+		"Cell_site": 804
+	},
+	{
+		"ID": 39,
+		"Call_start": 1655146487,
+		"Call_end": 1655146752,
+		"Duration": 265,
+		"City": "San Dina salentino",
+		"Address": "Borgo Biasci 2",
+		"Cell_site": 992
+	},
+	{
+		"ID": 40,
+		"Call_start": 1665910670,
+		"Call_end": 1665910922,
+		"Duration": 252,
+		"City": "Quarto Antero",
+		"Address": "Borgo Martino 527",
+		"Cell_site": 154
+	},
+	{
+		"ID": 41,
+		"Call_start": 1650755831,
+		"Call_end": 1650755838,
+		"Duration": 7,
+		"City": "Fiorelli calabro",
+		"Address": "Incrocio Mina 4",
+		"Cell_site": 335
+	},
+	{
+		"ID": 42,
+		"Call_start": 1659831946,
+		"Call_end": 1659832477,
+		"Duration": 531,
+		"City": "Quarto Ulpiano",
+		"Address": "Contrada Carnevale 0",
+		"Cell_site": 899
+	},
+	{
+		"ID": 43,
+		"Call_start": 1669327019,
+		"Call_end": 1669327169,
+		"Duration": 150,
+		"City": "Daniele a mare",
+		"Address": "Incrocio Alviero 207",
+		"Cell_site": 728
+	},
+	{
+		"ID": 44,
+		"Call_start": 1665456155,
+		"Call_end": 1665456203,
+		"Duration": 48,
+		"City": "Sergi nell'emilia",
+		"Address": "Borgo Almerigo 578",
+		"Cell_site": 160
+	},
+	{
+		"ID": 45,
+		"Call_start": 1653563212,
+		"Call_end": 1653563275,
+		"Duration": 63,
+		"City": "Farris laziale",
+		"Address": "Via Baldini 21",
+		"Cell_site": 40
+	},
+	{
+		"ID": 46,
+		"Call_start": 1648119121,
+		"Call_end": 1648119209,
+		"Duration": 88,
+		"City": "Vedasto sardo",
+		"Address": "Strada Siino 9",
+		"Cell_site": 106
+	},
+	{
+		"ID": 47,
+		"Call_start": 1672486762,
+		"Call_end": 1672486817,
+		"Duration": 55,
+		"City": "Boschetti ligure",
+		"Address": "Piazza Aloisio 31",
+		"Cell_site": 546
+	},
+	{
+		"ID": 48,
+		"Call_start": 1666947458,
+		"Call_end": 1666947556,
+		"Duration": 98,
+		"City": "Colangelo veneto",
+		"Address": "Rotonda Augusto 222",
+		"Cell_site": 885
+	},
+	{
+		"ID": 49,
+		"Call_start": 1665186719,
+		"Call_end": 1665186809,
+		"Duration": 90,
+		"City": "Maragno laziale",
+		"Address": "Contrada Brigandì 8",
+		"Cell_site": 739
+	},
+	{
+		"ID": 50,
+		"Call_start": 1658573758,
+		"Call_end": 1658573872,
+		"Duration": 114,
+		"City": "San Gautiero lido",
+		"Address": "Via Cardinali 841",
+		"Cell_site": 798
+	}
+]

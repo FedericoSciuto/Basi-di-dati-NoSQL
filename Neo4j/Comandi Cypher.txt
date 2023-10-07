@@ -1,0 +1,16 @@
+INSERIMENTI E RELAZIONI:
+
+- Inserimento persone: CALL apoc.load.json("file:///people25.json") YIELD value UNWIND value AS persone MERGE (p:Person{Full_name: persone.Full_name}) SET p.First_name = persone.First_name, p.Last_name = persone.Last_name, p.Phone_number = persone.Phone_number
+
+- Inserimento chiamate: CALL apoc.load.json("file:///calls25.json") YIELD value UNWIND value AS chiamate MERGE (c:Call{ID: chiamate.ID}) SET c.Call_start = chiamate.Call_start, c.Call_end = chiamate.Call_end, c.Duration = chiamate.Duration, c.City = chiamate.City, c.Address = chiamate.Address, c.Cell_site = chiamate.Cell_site
+
+- Relazioni Chiamate -> Persone: CALL apoc.load.json("file:///people25.json") YIELD value UNWIND value AS persone MERGE (p:Person{Full_name: persone.Full_name}) WITH p, persone UNWIND persone.Calls_done as chiamate MERGE (c:Call{ ID: chiamate }) MERGE (p)-[:CALLS]->(c)
+
+- Creazione relazione KNOWS: MATCH (a:Person)-[:CALLS]-(c:Call)-[:CALLS]-(b:Person) MERGE (a)-[:KNOWS]-(b)
+
+
+INDEXES:
+
+- CREATE INDEX Person FOR (nodeP:Person) ON (nodeP.Full_name)
+
+- CREATE INDEX Call FOR (nodeC:Call) ON (nodeC.ID)
