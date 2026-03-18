@@ -27,4 +27,4 @@ I test effettuati evidenziano come:
 - **Neo4j** superi drasticamente MongoDB quando la complessità delle query richiede l'attraversamento di molteplici livelli di relazione, dove il costo computazionale dei "join simulati" in MongoDB diventa proibitivo.
 
 ---
-*L'analisi dettagliata, i grafici delle performance e le metodologie di test sono disponibili nella **Relazione_NoSQL.pdf**.*
+*L'analisi dettagliata, i grafici delle performance e le metodologie di test sono disponibili nel **Report.pdf**.*
